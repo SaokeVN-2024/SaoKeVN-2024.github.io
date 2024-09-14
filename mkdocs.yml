@@ -1,11 +1,11 @@
-site_name: "IELTS BẰNG NIỀM TIN"
+site_name: "sao ke"
 docs_dir: ./docs/ObsidianVault/
-site_url: https://dreamielts.github.io/
+site_url: https://SaokeVN-2024.github.io/
 
-site_description: IELTS BẰNG NIỀM TIN
-site_author: haihabk51
+site_description: sao ke
+site_author: batigol261
 
-repo_url: https://github.com/dreamielts/dreamielts.github.io/
+repo_url: https://github.com/SaokeVN-2024/SaoKeVN-2024.github.io
 
 
 theme:
